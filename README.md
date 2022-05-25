@@ -18,17 +18,19 @@ Structure:
 **Delivery 1**
 
 
-![image](https://user-images.githubusercontent.com/100812079/170382248-3964edad-4856-4f21-b3de-9c74cf2b3c64.png)
+![image](https://user-images.githubusercontent.com/100812079/170384161-903eb82a-980e-4f96-8b46-74ba303cc07f.png)
 
 
 **Delivery 2**
 
-![image](https://user-images.githubusercontent.com/100812079/170382396-ebd09c63-d389-428f-ac6d-27537cfeae7d.png)
+
+![image](https://user-images.githubusercontent.com/100812079/170384249-34c21806-5bdb-43b9-8f53-3b71c1fd8381.png)
 
 
 **Delivery 3**
 
-![image](https://user-images.githubusercontent.com/100812079/170382742-81059a12-ce7c-489b-a92d-ff4482bd1d25.png)
+
+![image](https://user-images.githubusercontent.com/100812079/170384293-c20477b7-dd2e-4c20-9bdd-116efa64d6fe.png)
 
 
 
