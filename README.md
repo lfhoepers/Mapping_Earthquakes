@@ -1,5 +1,3 @@
-# Mapping_Earthquakes
-
 # Module 13 Challenge
 
 ## Porpuse of Mapping Earthquakes with JS & APIs
